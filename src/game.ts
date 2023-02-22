@@ -131,7 +131,7 @@ interactButton(pulsante_7,7)
 interactButton(pulsante_8,8)
 interactButton(pulsante_9,9)
 resetButton(pulsante_Reset)
-interactButton(pulsante_0, 11)
+interactButton(pulsante_0,0)
 confermaButton(pulsante_Conferma)
 
 make_invisible(pulsante_1)
