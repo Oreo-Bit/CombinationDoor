@@ -1,0 +1,65 @@
+{
+    "entityNumberCounter": 6,
+    "entities": [
+        {
+            "hierarchyOrder": 2.0,
+            "name": "stanza3",
+            "uniqueNumber": 3,
+            "parent": -1,
+            "uniqueId": "14dfea89-8ea5-4d81-82e0-7d99aec26dd8",
+            "parentId": "",
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":13.0,\"y\":-0.20000000298023225,\"z\":4.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":2.0,\"y\":2.0,\"z\":2.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"119d3447-ec44-4b2e-bac7-e713425a9559\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 0.0,
+            "name": "pulsante_1",
+            "uniqueNumber": 4,
+            "parent": -1,
+            "uniqueId": "4a5251ed-a165-4c90-b760-5b8a96ad0a23",
+            "parentId": "",
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":16.700000762939454,\"y\":2.0999999046325685,\"z\":3.180000066757202},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":0.10000000149011612,\"y\":0.10000000149011612,\"z\":0.20000000298023225}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 1.0,
+            "name": "Cube Entity",
+            "uniqueNumber": 5,
+            "parent": -1,
+            "uniqueId": "114cc3ed-3820-4b23-aa7b-bcb458232ee4",
+            "parentId": "",
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":13.325898170471192,\"y\":0.0,\"z\":4.57433557510376},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        }
+    ]
+}

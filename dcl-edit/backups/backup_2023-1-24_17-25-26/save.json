@@ -1,0 +1,205 @@
+{
+    "entityNumberCounter": 14,
+    "entities": [
+        {
+            "hierarchyOrder": 9.0,
+            "name": "stanza3",
+            "uniqueNumber": 3,
+            "parent": -1,
+            "uniqueId": "14dfea89-8ea5-4d81-82e0-7d99aec26dd8",
+            "parentId": "",
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":13.0,\"y\":-0.20000000298023225,\"z\":4.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":2.0,\"y\":2.0,\"z\":2.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"119d3447-ec44-4b2e-bac7-e713425a9559\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 6.0,
+            "name": "pulsante_1",
+            "uniqueNumber": 4,
+            "parent": -1,
+            "uniqueId": "4a5251ed-a165-4c90-b760-5b8a96ad0a23",
+            "parentId": "",
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":16.700000762939454,\"y\":2.0999999046325685,\"z\":3.180000066757202},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":0.10000000149011612,\"y\":0.10000000149011612,\"z\":0.20000000298023225}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 7.0,
+            "name": "pulsante_2",
+            "uniqueNumber": 5,
+            "parent": -1,
+            "uniqueId": "114cc3ed-3820-4b23-aa7b-bcb458232ee4",
+            "parentId": "",
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":16.700000762939454,\"y\":2.0999999046325685,\"z\":3.559999942779541},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":0.10000000149011612,\"y\":0.10000000149011612,\"z\":0.20000000298023225}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 8.0,
+            "name": "pulsante_3",
+            "uniqueNumber": 7,
+            "parent": -1,
+            "uniqueId": "2f399937-97bd-41b9-bbee-7074dc143471",
+            "parentId": "",
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":16.700000762939454,\"y\":2.0999999046325685,\"z\":3.9100000858306886},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":0.10000000149011612,\"y\":0.10000000149011612,\"z\":0.20000000298023225}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 5.0,
+            "name": "pulsante_4",
+            "uniqueNumber": 8,
+            "parent": -1,
+            "uniqueId": "b883e1c7-009e-4c04-a392-195e71bf51f8",
+            "parentId": "",
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":16.700000762939454,\"y\":1.8300000429153443,\"z\":3.180000066757202},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":0.10000000149011612,\"y\":0.10000000149011612,\"z\":0.20000000298023225}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 4.0,
+            "name": "pulsante_5",
+            "uniqueNumber": 9,
+            "parent": -1,
+            "uniqueId": "89fda613-3340-4f8f-8cb6-068273ec0d3c",
+            "parentId": "",
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":16.700000762939454,\"y\":1.8300000429153443,\"z\":3.559999942779541},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":0.10000000149011612,\"y\":0.10000000149011612,\"z\":0.20000000298023225}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 2.0,
+            "name": "pulsante_6",
+            "uniqueNumber": 10,
+            "parent": -1,
+            "uniqueId": "dcc0deed-c566-46f2-a899-a8851cc154b5",
+            "parentId": "",
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":16.700000762939454,\"y\":1.8300000429153443,\"z\":3.9100000858306886},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":0.10000000149011612,\"y\":0.10000000149011612,\"z\":0.20000000298023225}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 3.0,
+            "name": "pulsante_7",
+            "uniqueNumber": 11,
+            "parent": -1,
+            "uniqueId": "8f02b6c4-bc2d-4f57-be3e-002c38ebd0e5",
+            "parentId": "",
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":16.700000762939454,\"y\":1.559999942779541,\"z\":3.180000066757202},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":0.10000000149011612,\"y\":0.10000000149011612,\"z\":0.20000000298023225}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 1.0,
+            "name": "pulsante_8",
+            "uniqueNumber": 12,
+            "parent": -1,
+            "uniqueId": "d22f4e50-9279-498c-bd0b-15b5c545a733",
+            "parentId": "",
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":16.700000762939454,\"y\":1.559999942779541,\"z\":3.559999942779541},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":0.10000000149011612,\"y\":0.10000000149011612,\"z\":0.20000000298023225}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 0.0,
+            "name": "pulsante_9",
+            "uniqueNumber": 13,
+            "parent": -1,
+            "uniqueId": "55d696ae-0fac-486c-b060-38bc7fee3481",
+            "parentId": "",
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":16.700000762939454,\"y\":5.614999771118164,\"z\":3.7239999771118166},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        }
+    ]
+}

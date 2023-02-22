@@ -1,0 +1,24 @@
+{
+    "gltfAssets": [
+        {
+            "name": "door wood",
+            "id": "3c2089ae-debb-4cf0-ba9d-76e67193378c",
+            "gltfPath": "models/door_wood.glb"
+        },
+        {
+            "name": "stanza3",
+            "id": "119d3447-ec44-4b2e-bac7-e713425a9559",
+            "gltfPath": "models/stanza3.glb"
+        },
+        {
+            "name": "corridoio",
+            "id": "8a41f722-b6d5-482b-af3b-d887765cb553",
+            "gltfPath": "models/corridoio.glb"
+        },
+        {
+            "name": "corridoio2",
+            "id": "22cfe0a0-ab24-4ba8-a017-43e3cd24888b",
+            "gltfPath": "models/corridoio2.glb"
+        }
+    ]
+}
